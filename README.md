@@ -108,11 +108,6 @@ manajemen_mahasiswa/
 
 ---
 
-## 🗄️ Database
-Nama database:
-manajemen_mahasiswa
-
-
 ## 🎯 Tujuan Pembuatan
 Memahami konsep CRUD (Create, Read, Update, Delete)
 Menerapkan PHP dan MySQL
