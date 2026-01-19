@@ -112,3 +112,6 @@ manajemen_mahasiswa/
 Memahami konsep CRUD (Create, Read, Update, Delete)
 Menerapkan PHP dan MySQL
 Melatih pembuatan aplikasi web sederhana
+
+## Link YouTube
+https://youtu.be/zY7bELMxMqw?si=Jnax7CagnSObvbw3
